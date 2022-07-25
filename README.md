@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zukemon
-- 👀 I’m interested in all 3D and web devolpment among other things .dev
+- 👋 Hi, I’m @Zukemon/ Zukhumnan Emmanuel
+- 👀 I’m interested in web app development projects amongst others things .dev #innovation
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on any cool projects which include Flask, Three JS, React JS, Blender, AWS and so on
 - 📫 You can reach me via email at zuksofalter@gmail.com
