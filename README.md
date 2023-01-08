@@ -6,8 +6,8 @@
 
 Some of my pet projects so far include:
 
-- My very first website: www.zuksofalter.com
 - My (WebGL | 3D environment) NFT demo project: @ [github.com/Zukemon/nftgall](https://github.com/Zukemon/nftgall)
+- My very first website: www.zuksofalter.com (domain temporarily down, but check out other projects below...)
 
 <!---
 Zukemon/Zukemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
